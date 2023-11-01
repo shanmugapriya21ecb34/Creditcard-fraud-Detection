@@ -11,4 +11,6 @@ phase 4 drive link:
 https://docs.google.com/presentation/d/10jOe-tpN-Uou-SzqusiulMiC92Z0njqm/edit?usp=sharing&ouid=101394269942347224306&rtpof=true&sd=true
 
 phase 5 drive link:
-https://docs.google.com/presentation/d/15z1eZB-cFpo8onHWP8t74ghuPo31Enow/edit?usp=drivesdk&ouid=101394269942347224306&rtpof=true&sd=true
+https://docs.google.com/presentation/d/10szdwR0L03F5chNl2dMbs7SDyzkDmxpe/edit?usp=drive_link
+
+main.py link : https://docs.google.com/document/d/1k67H4Pit4ktj5gfwVOozo_s78AR-b_BN/edit?usp=drive_link
